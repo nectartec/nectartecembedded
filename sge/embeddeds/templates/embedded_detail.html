@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <div class="container mt-4">
+    <h3 class="display-4">Detalhes do Embedded</h3>
+
+    <div class="card">
+      <div class="card-body">
+        <h3 class="card-title">{{ object.CLIENT_ID }}</h3>
+        <p class="card-text">{{ object.CLIENT_SECRET }}</p>
+        <p class="card-text">{{ object.TENANT_ID }}</p>
+        <p class="card-text">{{ object.WORKSPACE_ID }}</p>
+        <p class="card-text">{{ object.REPORT_ID }}</p>
+        <p class="card-text">{{ object.DATASET_ID }}</p>
+      </div>
+    </div>
+
+    <a href="{% url 'embedded_list' %}" class="btn btn-secondary mt-3">Voltar para a Lista de Embedded</a>
+  </div>
+{% endblock %}
