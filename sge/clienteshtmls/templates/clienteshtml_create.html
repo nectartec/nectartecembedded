@@ -9,10 +9,10 @@
         <form method="post" class="form">
           {% csrf_token %}
           {{ form.as_p }}
-          <button type="submit" class="btn btn-primary">Salvar Embedded</button>
+          <button type="submit" class="btn btn-primary">Salvar ClientesHtmls</button>
         </form>
       </div>
     </div>
-    <a href="{% url 'embedded_list' %}" class="btn btn-secondary mt-3">Cancelar e Voltar para a Lista de Embedded</a>
+    <a href="{% url 'clienteshtml_list' %}" class="btn btn-secondary mt-3">Cancelar e Voltar para a Lista de ClientesHtmls</a>
   </div>
 {% endblock %}

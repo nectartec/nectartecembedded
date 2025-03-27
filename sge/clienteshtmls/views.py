@@ -25,7 +25,7 @@ class ClientehtmlCreateView(LoginRequiredMixin, PermissionRequiredMixin, CreateV
     model = models.Clienteshtml
     template_name = 'Clienteshtml_create.html'
     form_class = forms.ClientehtmlForm
-    success_url = reverse_lazy('clientehtml_list')
+    success_url = reverse_lazy('clienteshtml_list')
     permission_required = 'clientehtmls.add_clientehtml'
 
 
@@ -39,14 +39,14 @@ class ClientehtmlUpdateView(LoginRequiredMixin, PermissionRequiredMixin, UpdateV
     model = models.Clienteshtml
     template_name = 'clienteshtml_update.html'
     form_class = forms.ClientehtmlForm
-    success_url = reverse_lazy('clientehtml_list')
+    success_url = reverse_lazy('clienteshtml_list')
     permission_required = 'clientehtmls.change_clientehtml'
 
 
 class ClientehtmlDeleteView(LoginRequiredMixin, PermissionRequiredMixin, DeleteView):
     model = models.Clienteshtml
     template_name = 'clienteshtml_delete.html'
-    success_url = reverse_lazy('clientehtml_list')
+    success_url = reverse_lazy('clienteshtml_list')
     permission_required = 'clientehtmls.delete_clientehtml'
 
 

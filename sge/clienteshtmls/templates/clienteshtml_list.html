@@ -17,9 +17,9 @@ Nectartec - Clientes Html
       </div>
     </form>
   </div>
-  {% if perms.embeddeds.add_embedded %}
+  {% if perms.eclienteshtmls.add_clienteshtml %}
   <div class="col-md-6">
-    <a href="{% url 'embedded_create' %}" class="btn btn-success float-end">
+    <a href="{% url 'clienteshtml_create' %}" class="btn btn-success float-end">
       <i class="bi bi-plus"></i> Novo Clientes Html
     </a>
   </div>
@@ -31,42 +31,44 @@ Nectartec - Clientes Html
     <thead class="thead-dark">
       <tr>
         <th>ID</th>
-        <th>CLIENT_ID</th>
-        <th>CLIENT_SECRET</th>
-        <th>TENANT_ID</th>
+        <th>TOKEN_UUID</th>
+        <th>REPORT_ID</th> 
         <th>WORKSPACE_ID</th>
-        <th>REPORT_ID</th>
-        <th>DATASET_ID</th>
+        <th>EMBED_URL</th>
+        <th>EMBED_TOKEN</th>
+        <th>EXPIRES_AT</th>
+        <th>CLIENT_HTML</th>
         <th>Ações</th>
       </tr>
     </thead>
     <tbody>
-      {% for embedded in embeddeds %}
+      {% for Clientes in Clienteshtml %}
       <tr>
         <td>
-          <a href="{% url 'embedded_detail' embedded.id %}" class="text-primary fw-semibold">
-            {{ embedded.id }}
+          <a href="{% url 'clienteshtml_detail' Clientes.id %}" class="text-primary fw-semibold">
+            {{ Clientes.id }}
           </a>
         </td> 
-        <td>{{ embedded.CLIENT_ID }}</td>
-        <td>{{ embedded.CLIENT_SECRET }}</td>
-        <td>{{ embedded.TENANT_ID }}</td>
-        <td>{{ embedded.WORKSPACE_ID }}</td>
-        <td>{{ embedded.REPORT_ID }}</td>
-        <td>{{ embedded.DATASET_ID }}</td>        
+        <td>{{ Clientes.TOKEN_UUID }}</td>
+        <td>{{ Clientes.REPORT_ID }}</td>
+        <td>{{ Clientes.WORKSPACE_ID }}</td>
+        <td>{{ Clientes.EMBED_URL }}</td>
+        <td>{{ Clientes.EMBED_TOKEN }}</td>
+        <td>{{ Clientes.EXPIRES_AT }}</td>        
+        <td>{{ Clientes.CLIENT_HTML }}</td>   
         <td>
-          <a href="{% url 'embedded_detail' embedded.id %}" class="btn btn-info btn-sm">
+          <a href="{% url 'clienteshtml_detail' Clientes.id %}" class="btn btn-info btn-sm">
             <i class="bi bi-eye"></i>
           </a>
 
-          {% if perms.embeddeds.change_embedded %}
-          <a href="{% url 'embedded_update' embedded.id %}" class="btn btn-warning btn-sm">
+          {% if perms.clienteshtmls.change_clienteshtml %}
+          <a href="{% url 'clienteshtml_update' Clientes.id %}" class="btn btn-warning btn-sm">
             <i class="bi bi-pencil"></i>
           </a>
           {% endif %}
 
-          {% if perms.embeddeds.delete_embedded %}
-          <a href="{% url 'embedded_delete' embedded.id %}" class="btn btn-danger btn-sm btn-delete">
+          {% if perms.clienteshtmls.delete_clienteshtml %}
+          <a href="{% url 'clienteshtml_delete' Clientes.id %}" class="btn btn-danger btn-sm btn-delete">
             <i class="bi bi-trash"></i>
           </a>
           {% endif %}

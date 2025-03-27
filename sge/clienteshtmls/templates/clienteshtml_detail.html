@@ -6,15 +6,16 @@
 
     <div class="card">
       <div class="card-body">
-        <h3 class="card-title">{{ object.CLIENT_ID }}</h3>
-        <p class="card-text">{{ object.CLIENT_SECRET }}</p>
-        <p class="card-text">{{ object.TENANT_ID }}</p>
-        <p class="card-text">{{ object.WORKSPACE_ID }}</p>
+        <h3 class="card-title">{{ object.TOKEN_UUID }}</h3>
         <p class="card-text">{{ object.REPORT_ID }}</p>
-        <p class="card-text">{{ object.DATASET_ID }}</p>
+        <p class="card-text">{{ object.WORKSPACE_ID }}</p>
+        <p class="card-text">{{ object.EMBED_URL }}</p>
+        <p class="card-text">{{ object.EMBED_TOKEN }}</p>
+        <p class="card-text">{{ object.EXPIRES_AT }}</p>
+        <p class="card-text">{{ object.CLIENT_HTML }}</p>
       </div>
     </div>
 
-    <a href="{% url 'embedded_list' %}" class="btn btn-secondary mt-3">Voltar para a Lista de Clientes Html</a>
+    <a href="{% url 'clienteshtml_list' %}" class="btn btn-secondary mt-3">Voltar para a Lista de Clientes Html</a>
   </div>
 {% endblock %}
