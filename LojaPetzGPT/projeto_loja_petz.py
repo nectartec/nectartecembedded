@@ -6,9 +6,8 @@ import postgrest
 from utils_openai import retorna_resposta_assistente
 from utils_files import *
 
-SUPABASE_URL = "https://mzgrohvnikmwlamvixsv.supabase.co"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im16Z3JvaHZuaWttd2xhbXZpeHN2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mjg2NTM3MzcsImV4cCI6MjA0NDIyOTczN30.N4sLt49q3p-yTbaYK00cAH9R5IRIezlDdDjITsXAQBQ"
-
+SUPABASE_URL = st.secrets["SUPABASE_URL"]
+SUPABASE_KEY = st.secrets["SUPABASE_KEY"]
  
 if not SUPABASE_URL or not SUPABASE_KEY:
     st.error("Por favor, configure as variáveis de ambiente SUPABASE_URL e SUPABASE_KEY.")
