@@ -1,5 +1,11 @@
 import openai
 import streamlit as st
+from supabase import create_client, Client 
+
+SUPABASE_URL = st.secrets["SUPABASE_URL"]
+SUPABASE_KEY = st.secrets["SUPABASE_KEY"]
+supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
+
 openai_key = st.secrets["OPENAI_API_KEY"] 
 openai.api_key = openai_key
 try:
@@ -13,3 +19,6 @@ print(f"Thread criada: {thread}")  # Verifica se a thread foi criada corretament
 
 messages = openai.beta.threads.messages.list(thread_id=thread.id)
 print(messages)
+ 
+
+print(f"Versão do OpenAI: {openai.__version__}") 
