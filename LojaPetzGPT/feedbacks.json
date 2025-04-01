@@ -1,0 +1,38 @@
+[
+    {
+        "pergunta": "tenho acesso ao protheus",
+        "resposta": "Essa informação não está na base de conhecimento interna. Recomendo verificar com um supervisor ou abrir um chamado no suporte interno.\n\nEssa resposta te ajudou? (Sim/Não)",
+        "util": "Não",
+        "comentario": "ruim"
+    },
+    {
+        "pergunta": "como acessar o zantus",
+        "resposta": "Para acessar o Zantus, você deve utilizar o seguinte link: [Zantus](https://petz.custhelp.com/AgentWeb/). O login deve ser feito através do navegador Microsoft Edge.\n\nEssa informação foi útil para você? (Sim/Não)",
+        "util": "Sim",
+        "comentario": "gostei"
+    },
+    {
+        "pergunta": "e pra acessar o protheus",
+        "resposta": "Para acessar o Protheus, siga os seguintes passos:\n\n1. Faça o login no sistema através do ambiente 05.\n2. Clique em \"Entrar\".\n3. Após o login, você pode selecionar as telas de faturamento que deseja acessar.\n\nSe for necessário resetar sua senha, você pode clicar na opção \"Esqueceu sua senha?\" na tela de login e seguir as instruções para receber um e-mail com as instruções de redefinição【6:0†source】.\n\nEssa resposta te ajudou? (Sim/Não)",
+        "util": "Sim",
+        "comentario": "ta certo"
+    },
+    {
+        "pergunta": "qual acesso ao alopetz",
+        "resposta": "Para acessar o AloPetz, você deve seguir os passos qui abaixo:\n\n1. Acesse a plataforma em `https://petz.beedoo.io/wiki/`.\n2. Realize o login utilizando suas credenciais de acesso.\n\nCaso tenha algum problema ou não tenha suas credenciais, recomendo verificar com um supervisor ou abrir um chamado no suporte interno.\n\nEssa informação foi útil para você? (Sim/Não)",
+        "util": "Sim",
+        "comentario": "gostei"
+    },
+    {
+        "pergunta": "como eu acesso o moura",
+        "resposta": "Para acessar o Moura, você deve seguir estes passos:\n\n1. Acesse o link: [http://petmouraweb/Login](http://petmouraweb/Login)\n2. Insira seu login e senha.\n\nNo Moura, você pode consultar agendamentos de serviços de Banho & Tosa, Centro Veterinário Seres e Adote. \n\nEssa resposta te ajudou? (Sim/Não)",
+        "util": "Sim",
+        "comentario": "gostei"
+    },
+    {
+        "pergunta": "agora como eu acesso o protheus",
+        "resposta": "Para acessar o Protheus, siga estes passos:\n\n1. Acesse a tela de login do Protheus.\n2. Insira seu nome de usuário e senha.\n3. Se você é novo(a) e não consegue acessar, pode ser necessário resetar sua senha clicando em \"Esqueceu sua senha?\" na tela de login.\n4. Após o login, escolha o ambiente desejado (por exemplo, \"Ambiente 05\" para faturamento).\n\nSe precisar agregar funções aos seus favoritos, você pode fazer isso após o login, clicando em \"RECENTES\" e selecionando \"ADICIONAR FAVORITOS\"【6:0†source】.\n\nEssa resposta te ajudou? (Sim/Não)",
+        "util": "Sim",
+        "comentario": "muito bom"
+    }
+]

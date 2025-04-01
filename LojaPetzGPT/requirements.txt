@@ -1,0 +1,7 @@
+openai==1.61.0
+python-dotenv
+ipykernel
+streamlit
+unidecode
+supabase==2.13.0
+postgrest==0.19.3
