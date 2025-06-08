@@ -440,7 +440,7 @@ def processar_texto_com_ia(texto, contexto_extra="", modelo_ia="openai", modelo_
                     {"role": "system", "content": system_message},
                     {"role": "user", "content": content}
                 ],
-                temperature=0.8,
+                temperature=0.7,
                 max_tokens=2048,
                 top_p=1
             )

@@ -1,0 +1,69 @@
+C4
+
+Settlement Report SS FRESH BS C.H. ROBINSON
+
+Grower Finobrasa Agroindustial S.A US
+
+Robinson Fresh Order 618842
+
+Shipper Ref# 618842
+
+Container Arrival date March 31, 2025
+
+lotid AMCU9310099
+
+Description ref Currency Rate Sum of inveqnt Sum of Currency Converted Total Amount
+
+Commission - € (2,453.66)
+
+Handling - € (1,310.54)
+
+Freight - Charge to Grower 618842 0.926953 - € (6,160.45)
+
+Mango Carton 6CT 4KG Palmer Conventional Brazil 619477 0.907826 560 € 3,640.00
+
+Mango Carton 6CT 4KG Palmer Conventional Brazil 619357 0.92704 52 € -
+
+Mango Carton 6CT 4KG Palmer Conventional Brazil 619410 0.907826 280 € 1,875.52
+
+Mango Carton 6CT 4KG Palmer Conventional Brazil 619418 0.902215 280 € 1,820.00
+
+Mango Carton 6CT 4KG Palmer Conventional Brazil 619504 0.91332 508 € 2,362.20
+
+Mango Carton 6CT 4KG Palmer Conventional Brazil 619409 0.924324 280 € 1,680.00
+
+Mango Carton 6CT 4KG Palmer Conventional Brazil Total 1,960 € 11,377.72 5.80
+Mango Carton 8CT 4KG Palmer Conventional Brazil 619357 0.92704 168 € -
+
+Mango Carton 8CT 4KG Palmer Conventional Brazil 619554 0.902901 112 € 512.96
+
+Mango Carton 8CT 4KG Palmer Conventional Brazil 619504 0.91332 560 € 2,604.00
+
+Mango Carton 8CT 4KG Palmer Conventional Brazil Total 840 € 3,116.96 3.71
+Mango Carton 7CT 4KG Palmer Conventional Brazil 619389 0.924324 1,111 € 7,079.54
+
+Mango Carton 7CT 4KG Palmer Conventional Brazil 619357 0.92704 9 € :
+
+Mango Carton 7CT 4KG Palmer Conventional Brazil 619386 0.924324 280 € 1,784.22
+
+Mango Carton 7CT 4KG Palmer Conventional Brazil Total 1,400 € 8,863.76 6.33
+Mango Carton 10CT 4KG Palmer Conventional Brazil 619528 0.902901 35 € 245.00
+
+Mango Carton 10CT 4KG Palmer Conventional Brazil 619357 0.92704 196 € -
+
+Mango Carton 10CT 4KG Palmer Conventional Brazil 619554 0.902901 49 € 224.42
+
+Mango Carton 10CT 4KG Palmer Conventional Brazil Total 560 € 2,569.42 4.59
+Pick & Pack Recovery upon shipment 618899-1 0.922969 - € (11,200.00)
+
+Mango Carton SCT 4KG Palmer Conventional Brazil 619357 0.92704 192 € -
+
+Mango Carton 9CT 4KG Palmer Conventional Brazil 619554 0.902901 88 € 403.04
+
+Mango Carton 9CT 4KG Palmer Conventional Brazil 619387 0.924324 560 € 4,340.0 _
+Mango Carton SCT 4KG Palmer Conventional Brazil Total 840 € 4,743.03 5.65
+Repacking Charges 618842 0.926953 - € (2,379.52)
+
+Grand Total 5,600 € 7,166.73
+
+

@@ -1,0 +1,1 @@
+#python extrator_pdf_dinamico_v2.py caminho_do_pdf.pdf -o saida.json -k "sua_chave_openai" -v

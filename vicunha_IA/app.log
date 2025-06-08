@@ -1,0 +1,1302 @@
+2025-05-29 09:29:24,200 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:29:24,201 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:29:24,202 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:29:24,204 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:29:27,567 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:29:27,568 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:29:27,569 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:29:27,569 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:29:29,083 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:29:29,085 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:29:29,087 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:29:29,088 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:29:43,032 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:29:43,033 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:29:43,035 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:29:43,035 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:29:46,158 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:29:46,159 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:29:46,160 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:29:46,161 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:29:48,696 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:29:48,697 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:29:48,699 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:29:48,699 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:29:48,719 - INFO - Nenhum modelo encontrado para a assinatura: bd497eaa20bf5341_9e37951e
+2025-05-29 09:29:48,719 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:29:48,721 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:29:48,723 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:29:48,726 - INFO - Iniciando extração do PDF: C:\Users\richa\AppData\Local\Temp\tmpjkidsfzk.pdf
+2025-05-29 09:29:48,729 - INFO - Nenhum modelo encontrado para a assinatura: bd497eaa20bf5341_36ca7f01
+2025-05-29 09:29:48,889 - INFO - Texto extraído diretamente é insuficiente. Usando OCR...
+2025-05-29 09:29:51,288 - INFO - Idioma detectado: en
+2025-05-29 09:29:51,288 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 09:30:14,889 - INFO - Extração concluída. Encontrados 23 produtos.
+2025-05-29 09:30:23,122 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:30:23,123 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:30:23,124 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:30:23,125 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:33:56,536 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:33:56,538 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:33:56,539 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:33:56,540 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:33:56,561 - INFO - Nenhum modelo encontrado para a assinatura: bd497eaa20bf5341_9e37951e
+2025-05-29 09:33:56,562 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:33:56,564 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:33:56,566 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:33:56,568 - INFO - Iniciando extração do PDF: C:\Users\richa\AppData\Local\Temp\tmp6j9yrbog.pdf
+2025-05-29 09:33:56,570 - INFO - Nenhum modelo encontrado para a assinatura: bd497eaa20bf5341_fc573168
+2025-05-29 09:33:56,690 - INFO - Texto extraído diretamente é insuficiente. Usando OCR...
+2025-05-29 09:33:58,979 - INFO - Idioma detectado: en
+2025-05-29 09:33:58,979 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 09:34:33,175 - INFO - Extração concluída. Encontrados 23 produtos.
+2025-05-29 09:34:45,490 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:34:45,491 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:34:45,492 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:34:45,493 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:40:26,992 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:40:26,993 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:40:26,994 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:40:26,994 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:40:30,206 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:40:30,207 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:40:30,208 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:40:30,208 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:40:31,583 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:40:31,584 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:40:31,585 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:40:31,586 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:40:41,669 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:40:41,670 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:40:41,670 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:40:41,670 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:40:47,780 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:40:47,782 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:40:47,784 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:40:47,784 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:40:54,105 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:40:54,107 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:40:54,108 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:40:54,109 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:40:54,128 - INFO - Nenhum modelo encontrado para a assinatura: bd497eaa20bf5341_9e37951e
+2025-05-29 09:40:54,129 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:40:54,130 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:40:54,131 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:40:54,135 - INFO - Iniciando extração do PDF: C:\Users\richa\AppData\Local\Temp\tmpan2ldz4d.pdf
+2025-05-29 09:40:54,136 - INFO - Nenhum modelo encontrado para a assinatura: bd497eaa20bf5341_480ae6e9
+2025-05-29 09:40:54,252 - INFO - Texto extraído diretamente é insuficiente. Usando OCR...
+2025-05-29 09:40:54,637 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 09:40:54,644 - INFO - Idioma detectado: en
+2025-05-29 09:40:54,645 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 09:40:58,492 - ERROR - Erro na extração com OpenAI: Expecting value: line 1 column 1 (char 0)
+2025-05-29 09:40:58,493 - INFO - Extração concluída. Encontrados 0 produtos.
+2025-05-29 09:41:48,406 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:41:48,407 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:41:48,407 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:41:48,408 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:41:50,968 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:41:50,968 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:41:50,969 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:41:50,970 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:41:56,216 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:41:56,234 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:41:56,235 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:41:56,235 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:41:57,414 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:41:57,416 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:41:57,417 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:41:57,418 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:41:57,441 - INFO - Nenhum modelo encontrado para a assinatura: bd497eaa20bf5341_9e37951e
+2025-05-29 09:41:57,441 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:41:57,443 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:41:57,444 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:41:57,447 - INFO - Iniciando extração do PDF: C:\Users\richa\AppData\Local\Temp\tmpcw2xiac6.pdf
+2025-05-29 09:41:57,448 - INFO - Nenhum modelo encontrado para a assinatura: bd497eaa20bf5341_52502edb
+2025-05-29 09:41:57,550 - INFO - Texto extraído diretamente é insuficiente. Usando OCR...
+2025-05-29 09:41:59,760 - INFO - Idioma detectado: en
+2025-05-29 09:41:59,760 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 09:42:30,887 - INFO - Extração concluída. Encontrados 23 produtos.
+2025-05-29 09:42:54,648 - INFO - Botão Salvar Correções clicado via callback
+2025-05-29 09:42:54,651 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:42:54,653 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:42:54,654 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:42:54,655 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:44:11,694 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:44:11,695 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:44:11,702 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:44:11,702 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:44:15,873 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:44:15,875 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:44:15,876 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:44:15,877 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:44:24,624 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:44:24,625 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:44:24,626 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:44:24,626 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:44:25,702 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:44:25,704 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:44:25,705 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:44:25,706 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:44:30,532 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:44:30,537 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:44:30,540 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:44:30,541 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:44:48,232 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:44:48,233 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:44:48,235 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:44:48,235 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:44:48,257 - INFO - Nenhum modelo encontrado para a assinatura: bd497eaa20bf5341_9e37951e
+2025-05-29 09:44:48,258 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:44:48,259 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:44:48,260 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:44:48,263 - INFO - Iniciando extração do PDF: C:\Users\richa\AppData\Local\Temp\tmpe7j3591i.pdf
+2025-05-29 09:44:48,264 - INFO - Nenhum modelo encontrado para a assinatura: bd497eaa20bf5341_c6dc3330
+2025-05-29 09:44:48,366 - INFO - Texto extraído diretamente é insuficiente. Usando OCR...
+2025-05-29 09:44:50,767 - INFO - Idioma detectado: en
+2025-05-29 09:44:50,768 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 09:45:34,453 - INFO - Extração concluída. Encontrados 23 produtos.
+2025-05-29 09:45:44,581 - INFO - Botão Salvar Correções clicado via callback
+2025-05-29 09:45:44,584 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:45:44,586 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:45:44,587 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:45:44,588 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:51:49,997 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:51:49,998 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:51:49,999 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:51:49,999 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 09:51:49,999 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:51:52,298 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:51:52,299 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:51:52,300 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:51:52,300 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 09:51:52,301 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:51:54,278 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:51:54,279 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:51:54,280 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:51:54,281 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 09:51:54,282 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:52:05,218 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:52:05,222 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:52:05,223 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:52:05,223 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 09:52:05,224 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:52:07,663 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:52:07,664 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:52:07,665 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:52:07,665 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 09:52:07,665 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:52:09,239 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:52:09,240 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:52:09,240 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:52:09,241 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 09:52:09,242 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:52:09,254 - INFO - Buscando modelo com assinatura: bd497eaa20bf5341_9e37951e
+2025-05-29 09:52:09,255 - INFO - Nenhum modelo encontrado para a assinatura: bd497eaa20bf5341_9e37951e
+2025-05-29 09:52:45,855 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:52:45,856 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:52:45,857 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:52:45,857 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 09:52:45,858 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:52:48,118 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:52:48,120 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:52:48,122 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:52:48,123 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 09:52:48,124 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:52:49,383 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:52:49,384 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:52:49,385 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:52:49,386 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 09:52:49,386 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:53:25,916 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:53:25,916 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:53:25,917 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:53:25,917 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 09:53:25,917 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:53:28,360 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:53:28,361 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:53:28,362 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:53:28,363 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 09:53:28,363 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:53:31,534 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:53:31,536 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:53:31,539 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:53:31,539 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 09:53:31,539 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:53:32,457 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:53:32,458 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:53:32,459 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:53:32,460 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 09:53:32,461 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:53:39,754 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:53:39,756 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:53:39,757 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:53:39,757 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 09:53:39,758 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:53:48,714 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:53:48,716 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:53:48,718 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:53:48,719 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 09:53:48,719 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 09:53:48,741 - INFO - Buscando modelo com assinatura: bd497eaa20bf5341_9e37951e
+2025-05-29 09:53:48,742 - INFO - Nenhum modelo encontrado para a assinatura: bd497eaa20bf5341_9e37951e
+2025-05-29 09:53:48,743 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:53:48,744 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:53:48,746 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:53:48,747 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 09:53:48,750 - INFO - Iniciando extração do PDF: C:\Users\richa\AppData\Local\Temp\tmp4voz26qn.pdf
+2025-05-29 09:53:48,751 - INFO - Buscando modelo com assinatura: bd497eaa20bf5341_e6b62d32
+2025-05-29 09:53:48,752 - INFO - Nenhum modelo encontrado para a assinatura: bd497eaa20bf5341_e6b62d32
+2025-05-29 09:53:48,855 - INFO - Texto extraído diretamente é insuficiente. Usando OCR...
+2025-05-29 09:53:51,278 - INFO - Idioma detectado: en
+2025-05-29 09:53:51,278 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 09:54:24,172 - INFO - Extração concluída. Encontrados 23 produtos.
+2025-05-29 09:56:51,685 - INFO - Botão Salvar Correções clicado via callback
+2025-05-29 09:56:51,687 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 09:56:51,689 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 09:56:51,690 - INFO - Tabelas criadas ou já existentes
+2025-05-29 09:56:51,692 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 09:56:51,692 - INFO - Aplicação inicializada com banco de dados: pdf_models.db
+2025-05-29 10:22:38,563 - INFO - Módulos importados com sucesso
+2025-05-29 10:22:55,824 - INFO - Módulos importados com sucesso
+2025-05-29 10:22:57,829 - INFO - Módulos importados com sucesso
+2025-05-29 10:22:57,835 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:22:57,840 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:22:57,841 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:22:57,841 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:22:57,842 - INFO - Buscando todos os modelos
+2025-05-29 10:22:57,843 - INFO - Encontrados 0 modelos
+2025-05-29 10:22:57,844 - INFO - Buscando histórico de extrações
+2025-05-29 10:22:57,845 - INFO - Encontrados 0 registros de histórico
+2025-05-29 10:23:01,344 - INFO - Módulos importados com sucesso
+2025-05-29 10:23:01,351 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:23:01,352 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:23:01,352 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:23:01,353 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:23:01,354 - INFO - Buscando todos os modelos
+2025-05-29 10:23:01,354 - INFO - Encontrados 0 modelos
+2025-05-29 10:23:01,355 - INFO - Buscando histórico de extrações
+2025-05-29 10:23:01,356 - INFO - Encontrados 0 registros de histórico
+2025-05-29 10:23:04,720 - INFO - Módulos importados com sucesso
+2025-05-29 10:23:04,723 - INFO - Processando PDF: AMCU9310099.pdf
+2025-05-29 10:23:04,731 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:23:04,732 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:23:04,732 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:23:04,733 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:23:04,733 - INFO - Iniciando extração do PDF: C:\Users\richa\AppData\Local\Temp\tmplxisv80k.pdf
+2025-05-29 10:23:04,735 - INFO - Buscando modelo com assinatura: bd497eaa20bf5341_a495e329
+2025-05-29 10:23:04,735 - INFO - Nenhum modelo encontrado para a assinatura: bd497eaa20bf5341_a495e329
+2025-05-29 10:23:04,856 - INFO - Texto extraído diretamente é insuficiente. Usando OCR...
+2025-05-29 10:23:07,197 - INFO - Idioma detectado: en
+2025-05-29 10:23:07,198 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 10:23:40,180 - INFO - Extração concluída. Encontrados 23 produtos.
+2025-05-29 10:23:40,183 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 10:23:40,257 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:23:40,257 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:23:40,258 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:23:40,258 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:23:40,258 - INFO - Buscando todos os modelos
+2025-05-29 10:23:40,259 - INFO - Encontrados 0 modelos
+2025-05-29 10:23:40,259 - INFO - Buscando histórico de extrações
+2025-05-29 10:23:40,259 - INFO - Encontrados 0 registros de histórico
+2025-05-29 10:24:23,120 - INFO - Botão 'Salvar Correções' clicado via callback
+2025-05-29 10:24:23,121 - INFO - Estado save_clicked atualizado para: True
+2025-05-29 10:24:23,123 - INFO - Módulos importados com sucesso
+2025-05-29 10:24:23,146 - INFO - Detectado clique no botão de salvar, iniciando salvamento
+2025-05-29 10:24:23,149 - INFO - Iniciando salvamento do modelo
+2025-05-29 10:24:23,154 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:24:23,155 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:24:23,156 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:24:23,157 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:24:23,157 - INFO - Buscando modelo com assinatura: bd497eaa20bf5341_a495e329
+2025-05-29 10:24:23,158 - INFO - Nenhum modelo encontrado para a assinatura: bd497eaa20bf5341_a495e329
+2025-05-29 10:24:23,158 - INFO - Criando novo modelo: Modelo para AMCU9310099.pdf
+2025-05-29 10:24:23,159 - INFO - Adicionando novo modelo: Modelo para AMCU9310099.pdf, signature: bd497eaa20bf5341_a495e329
+2025-05-29 10:24:23,159 - INFO - Tentando salvar modelo: Modelo para AMCU9310099.pdf, signature: bd497eaa20bf5341_a495e329
+2025-05-29 10:24:23,160 - INFO - Padrões de extração serializados: {"field_corrections": {}, "product_patterns": [{"tipo": "MANGO CARTON", "tamanho": "6", "quantidade"...
+2025-05-29 10:24:23,160 - INFO - Criando novo modelo: Modelo para AMCU9310099.pdf
+2025-05-29 10:24:23,176 - INFO - Novo modelo criado com sucesso: Modelo para AMCU9310099.pdf (ID: 1)
+2025-05-29 10:24:23,177 - INFO - Verificação de salvamento: Modelo ID 1 encontrado no banco
+2025-05-29 10:24:23,177 - INFO - Modelo adicionado com ID: 1
+2025-05-29 10:24:23,178 - INFO - Novo modelo criado com sucesso: Modelo para AMCU9310099.pdf, ID: 1
+2025-05-29 10:24:23,178 - INFO - Adicionando histórico para modelo ID: 1, PDF: AMCU9310099.pdf
+2025-05-29 10:24:23,182 - INFO - Histórico adicionado com ID: 1
+2025-05-29 10:24:23,183 - INFO - Verificação: Histórico ID 1 encontrado no banco
+2025-05-29 10:24:23,183 - INFO - Correções salvas com sucesso
+2025-05-29 10:24:23,184 - INFO - Flag save_clicked resetado
+2025-05-29 10:24:23,198 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:24:23,199 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:24:23,200 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:24:23,200 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:24:23,201 - INFO - Buscando todos os modelos
+2025-05-29 10:24:23,202 - INFO - Encontrados 1 modelos
+2025-05-29 10:24:23,210 - INFO - Buscando histórico de extrações
+2025-05-29 10:24:23,212 - INFO - Encontrados 0 registros de histórico
+2025-05-29 10:24:33,783 - INFO - Botão 'Salvar Correções' clicado via callback
+2025-05-29 10:24:33,785 - INFO - Estado save_clicked atualizado para: True
+2025-05-29 10:24:33,787 - INFO - Módulos importados com sucesso
+2025-05-29 10:24:33,809 - INFO - Detectado clique no botão de salvar, iniciando salvamento
+2025-05-29 10:24:33,812 - INFO - Iniciando salvamento do modelo
+2025-05-29 10:24:33,816 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:24:33,818 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:24:33,819 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:24:33,820 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:24:33,820 - INFO - Buscando modelo com assinatura: bd497eaa20bf5341_a495e329
+2025-05-29 10:24:33,821 - INFO - Modelo encontrado para a assinatura: bd497eaa20bf5341_a495e329, ID: 1
+2025-05-29 10:24:33,821 - INFO - Atualizando modelo existente: Modelo para AMCU9310099.pdf
+2025-05-29 10:24:33,821 - INFO - Atualizando modelo ID: 1
+2025-05-29 10:24:33,830 - INFO - Modelo ID: 1 atualizado com sucesso
+2025-05-29 10:24:33,830 - INFO - Modelo atualizado com sucesso: Modelo para AMCU9310099.pdf
+2025-05-29 10:24:33,831 - INFO - Adicionando histórico para modelo ID: 1, PDF: AMCU9310099.pdf
+2025-05-29 10:24:33,836 - INFO - Histórico adicionado com ID: 2
+2025-05-29 10:24:33,836 - INFO - Verificação: Histórico ID 2 encontrado no banco
+2025-05-29 10:24:33,837 - INFO - Correções salvas com sucesso
+2025-05-29 10:24:33,839 - INFO - Flag save_clicked resetado
+2025-05-29 10:24:33,853 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:24:33,855 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:24:33,856 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:24:33,856 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:24:33,857 - INFO - Buscando todos os modelos
+2025-05-29 10:24:33,858 - INFO - Encontrados 1 modelos
+2025-05-29 10:24:33,863 - INFO - Buscando histórico de extrações
+2025-05-29 10:24:33,864 - INFO - Encontrados 0 registros de histórico
+2025-05-29 10:25:23,263 - INFO - Módulos importados com sucesso
+2025-05-29 10:25:23,307 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:25:23,309 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:25:23,310 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:25:23,311 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:25:23,312 - INFO - Buscando todos os modelos
+2025-05-29 10:25:23,313 - INFO - Encontrados 1 modelos
+2025-05-29 10:25:23,317 - INFO - Buscando histórico de extrações
+2025-05-29 10:25:23,318 - INFO - Encontrados 0 registros de histórico
+2025-05-29 10:25:26,783 - INFO - Módulos importados com sucesso
+2025-05-29 10:25:26,812 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:25:26,813 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:25:26,813 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:25:26,813 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:25:26,814 - INFO - Buscando todos os modelos
+2025-05-29 10:25:26,814 - INFO - Encontrados 1 modelos
+2025-05-29 10:25:26,817 - INFO - Buscando histórico de extrações
+2025-05-29 10:25:26,818 - INFO - Encontrados 0 registros de histórico
+2025-05-29 10:25:30,523 - INFO - Módulos importados com sucesso
+2025-05-29 10:25:30,528 - INFO - Processando PDF: BEAU9731106.pdf
+2025-05-29 10:25:30,531 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:25:30,532 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:25:30,533 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:25:30,535 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:25:30,536 - INFO - Iniciando extração do PDF: C:\Users\richa\AppData\Local\Temp\tmp7xwq3xae.pdf
+2025-05-29 10:25:30,538 - INFO - Buscando modelo com assinatura: c3237063cd8b340c_8e694857
+2025-05-29 10:25:30,538 - INFO - Nenhum modelo encontrado para a assinatura: c3237063cd8b340c_8e694857
+2025-05-29 10:25:30,665 - INFO - Idioma detectado: en
+2025-05-29 10:25:30,666 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 10:25:49,260 - INFO - Extração concluída. Encontrados 5 produtos.
+2025-05-29 10:25:49,264 - INFO - PDF processado com sucesso: BEAU9731106.pdf
+2025-05-29 10:25:49,287 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:25:49,288 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:25:49,289 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:25:49,290 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:25:49,294 - INFO - Buscando todos os modelos
+2025-05-29 10:25:49,295 - INFO - Encontrados 1 modelos
+2025-05-29 10:25:49,299 - INFO - Buscando histórico de extrações
+2025-05-29 10:25:49,301 - INFO - Encontrados 0 registros de histórico
+2025-05-29 10:27:19,539 - INFO - Módulos importados com sucesso
+2025-05-29 10:27:19,579 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:27:19,581 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:27:19,583 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:27:19,584 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:27:19,585 - INFO - Buscando todos os modelos
+2025-05-29 10:27:19,587 - INFO - Encontrados 1 modelos
+2025-05-29 10:27:19,591 - INFO - Buscando histórico de extrações
+2025-05-29 10:27:19,592 - INFO - Encontrados 0 registros de histórico
+2025-05-29 10:27:22,746 - INFO - Módulos importados com sucesso
+2025-05-29 10:27:22,784 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:27:22,788 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:27:22,789 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:27:22,790 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:27:22,791 - INFO - Buscando todos os modelos
+2025-05-29 10:27:22,794 - INFO - Encontrados 1 modelos
+2025-05-29 10:27:22,802 - INFO - Buscando histórico de extrações
+2025-05-29 10:27:22,803 - INFO - Encontrados 0 registros de histórico
+2025-05-29 10:27:24,799 - INFO - Módulos importados com sucesso
+2025-05-29 10:27:24,837 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:27:24,840 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:27:24,842 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:27:24,843 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:27:24,844 - INFO - Buscando todos os modelos
+2025-05-29 10:27:24,845 - INFO - Encontrados 1 modelos
+2025-05-29 10:27:24,848 - INFO - Buscando histórico de extrações
+2025-05-29 10:27:24,849 - INFO - Encontrados 0 registros de histórico
+2025-05-29 10:27:26,770 - INFO - Módulos importados com sucesso
+2025-05-29 10:27:26,809 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:27:26,810 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:27:26,811 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:27:26,812 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:27:26,814 - INFO - Buscando todos os modelos
+2025-05-29 10:27:26,816 - INFO - Encontrados 1 modelos
+2025-05-29 10:27:26,821 - INFO - Buscando histórico de extrações
+2025-05-29 10:27:26,823 - INFO - Encontrados 0 registros de histórico
+2025-05-29 10:27:29,395 - INFO - Módulos importados com sucesso
+2025-05-29 10:27:29,434 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:27:29,435 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:27:29,437 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:27:29,438 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:27:29,439 - INFO - Buscando todos os modelos
+2025-05-29 10:27:29,439 - INFO - Encontrados 1 modelos
+2025-05-29 10:27:29,443 - INFO - Buscando histórico de extrações
+2025-05-29 10:27:29,443 - INFO - Encontrados 0 registros de histórico
+2025-05-29 10:27:30,557 - INFO - Módulos importados com sucesso
+2025-05-29 10:27:30,599 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:27:30,601 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:27:30,602 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:27:30,603 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:27:30,604 - INFO - Buscando todos os modelos
+2025-05-29 10:27:30,605 - INFO - Encontrados 1 modelos
+2025-05-29 10:27:30,610 - INFO - Buscando histórico de extrações
+2025-05-29 10:27:30,612 - INFO - Encontrados 0 registros de histórico
+2025-05-29 10:27:30,954 - INFO - Módulos importados com sucesso
+2025-05-29 10:27:30,992 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:27:30,993 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:27:30,995 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:27:30,996 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:27:30,996 - INFO - Buscando todos os modelos
+2025-05-29 10:27:30,997 - INFO - Encontrados 1 modelos
+2025-05-29 10:27:31,002 - INFO - Buscando histórico de extrações
+2025-05-29 10:27:31,003 - INFO - Encontrados 0 registros de histórico
+2025-05-29 10:27:31,591 - INFO - Módulos importados com sucesso
+2025-05-29 10:27:31,631 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:27:31,633 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:27:31,635 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:27:31,636 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:27:31,637 - INFO - Buscando todos os modelos
+2025-05-29 10:27:31,638 - INFO - Encontrados 1 modelos
+2025-05-29 10:27:31,643 - INFO - Buscando histórico de extrações
+2025-05-29 10:27:31,644 - INFO - Encontrados 0 registros de histórico
+2025-05-29 10:27:32,455 - INFO - Módulos importados com sucesso
+2025-05-29 10:27:33,811 - INFO - Módulos importados com sucesso
+2025-05-29 10:27:34,360 - INFO - Módulos importados com sucesso
+2025-05-29 10:27:34,861 - INFO - Módulos importados com sucesso
+2025-05-29 10:27:36,903 - INFO - Módulos importados com sucesso
+2025-05-29 10:27:41,138 - INFO - Módulos importados com sucesso
+2025-05-29 10:27:54,041 - INFO - Módulos importados com sucesso
+2025-05-29 10:27:59,180 - INFO - Módulos importados com sucesso
+2025-05-29 10:28:00,720 - INFO - Módulos importados com sucesso
+2025-05-29 10:28:00,724 - INFO - Processando PDF: CGMU6531497.pdf
+2025-05-29 10:28:00,726 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:28:00,727 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:28:00,727 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:28:00,728 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:28:00,728 - INFO - Iniciando extração do PDF: C:\Users\richa\AppData\Local\Temp\tmpburqrg0w.pdf
+2025-05-29 10:28:00,730 - INFO - Buscando modelo com assinatura: 5219f7f4241f25b1_262cfb9c
+2025-05-29 10:28:00,730 - INFO - Nenhum modelo encontrado para a assinatura: 5219f7f4241f25b1_262cfb9c
+2025-05-29 10:28:00,868 - INFO - Idioma detectado: en
+2025-05-29 10:28:00,868 - INFO - Tipo de documento detectado: accountsale
+2025-05-29 10:28:36,070 - INFO - Extração concluída. Encontrados 12 produtos.
+2025-05-29 10:28:36,074 - INFO - PDF processado com sucesso: CGMU6531497.pdf
+2025-05-29 10:29:37,082 - INFO - Botão 'Salvar Correções' clicado via callback
+2025-05-29 10:29:37,083 - INFO - Estado save_clicked atualizado para: True
+2025-05-29 10:29:37,084 - INFO - Módulos importados com sucesso
+2025-05-29 10:29:37,101 - INFO - Detectado clique no botão de salvar, iniciando salvamento
+2025-05-29 10:29:37,102 - INFO - Iniciando salvamento do modelo
+2025-05-29 10:29:37,104 - INFO - Inicializando banco de dados em: pdf_models.db
+2025-05-29 10:29:37,105 - INFO - Conectado ao banco de dados: pdf_models.db
+2025-05-29 10:29:37,106 - INFO - Tabelas criadas ou já existentes
+2025-05-29 10:29:37,107 - INFO - Tabelas no banco de dados: ['models', 'sqlite_sequence', 'extraction_history']
+2025-05-29 10:29:37,107 - INFO - Buscando modelo com assinatura: 5219f7f4241f25b1_262cfb9c
+2025-05-29 10:29:37,108 - INFO - Nenhum modelo encontrado para a assinatura: 5219f7f4241f25b1_262cfb9c
+2025-05-29 10:29:37,108 - INFO - Criando novo modelo: Modelo para CGMU6531497.pdf
+2025-05-29 10:29:37,108 - INFO - Adicionando novo modelo: Modelo para CGMU6531497.pdf, signature: 5219f7f4241f25b1_262cfb9c
+2025-05-29 10:29:37,108 - INFO - Tentando salvar modelo: Modelo para CGMU6531497.pdf, signature: 5219f7f4241f25b1_262cfb9c
+2025-05-29 10:29:37,109 - INFO - Padrões de extração serializados: {"field_corrections": {}, "product_patterns": [{"tipo": "MANGO KEITT", "tamanho": "No especificado n...
+2025-05-29 10:29:37,109 - INFO - Criando novo modelo: Modelo para CGMU6531497.pdf
+2025-05-29 10:29:37,114 - INFO - Novo modelo criado com sucesso: Modelo para CGMU6531497.pdf (ID: 2)
+2025-05-29 10:29:37,115 - INFO - Verificação de salvamento: Modelo ID 2 encontrado no banco
+2025-05-29 10:29:37,115 - INFO - Modelo adicionado com ID: 2
+2025-05-29 10:29:37,115 - INFO - Novo modelo criado com sucesso: Modelo para CGMU6531497.pdf, ID: 2
+2025-05-29 10:29:37,115 - INFO - Adicionando histórico para modelo ID: 2, PDF: CGMU6531497.pdf
+2025-05-29 10:29:37,119 - INFO - Histórico adicionado com ID: 3
+2025-05-29 10:29:37,119 - INFO - Verificação: Histórico ID 3 encontrado no banco
+2025-05-29 10:29:37,120 - INFO - Correções salvas com sucesso
+2025-05-29 10:29:37,121 - INFO - Flag save_clicked resetado
+2025-05-29 10:33:11,564 - INFO - Módulos importados com sucesso
+2025-05-29 10:33:15,260 - INFO - Módulos importados com sucesso
+2025-05-29 10:33:15,491 - INFO - Módulos importados com sucesso
+2025-05-29 10:33:15,737 - INFO - Módulos importados com sucesso
+2025-05-29 10:33:15,933 - INFO - Módulos importados com sucesso
+2025-05-29 10:33:16,113 - INFO - Módulos importados com sucesso
+2025-05-29 10:33:16,293 - INFO - Módulos importados com sucesso
+2025-05-29 10:33:16,473 - INFO - Módulos importados com sucesso
+2025-05-29 10:33:20,896 - INFO - Módulos importados com sucesso
+2025-05-29 10:33:22,353 - INFO - Módulos importados com sucesso
+2025-05-29 10:57:18,343 - INFO - Processando PDF: AMCU9310099.pdf com método: auto
+2025-05-29 10:57:18,565 - ERROR - Erro ao inicializar cliente OpenAI: module 'openai' has no attribute 'OpenAI'
+2025-05-29 10:57:18,566 - INFO - Iniciando extração do PDF com método: auto
+2025-05-29 10:57:18,566 - INFO - Extraindo texto do PDF
+2025-05-29 10:57:19,581 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 10:57:19,817 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 10:57:19,819 - INFO - Recorrendo a OCR e regex
+2025-05-29 10:57:19,820 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 10:57:20,366 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:02:16,591 - INFO - Processando PDF: AMCU9310099.pdf com método: openai
+2025-05-29 11:02:16,593 - ERROR - Erro ao inicializar cliente OpenAI: module 'openai' has no attribute 'OpenAI'
+2025-05-29 11:02:16,594 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 11:02:16,595 - INFO - Extraindo texto do PDF
+2025-05-29 11:02:17,566 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 11:02:17,571 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 11:02:17,571 - ERROR - OpenAI não configurado
+2025-05-29 11:02:17,572 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 11:02:17,572 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 11:02:18,153 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:02:44,311 - INFO - Processando PDF: AMCU9310099.pdf com método: ocr
+2025-05-29 11:02:44,313 - ERROR - Erro ao inicializar cliente OpenAI: module 'openai' has no attribute 'OpenAI'
+2025-05-29 11:02:44,313 - INFO - Iniciando extração do PDF com método: ocr
+2025-05-29 11:02:44,313 - INFO - Extraindo texto do PDF
+2025-05-29 11:02:45,187 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 11:02:45,190 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 11:02:45,190 - INFO - Usando OCR e regex para extração
+2025-05-29 11:02:45,191 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 11:02:45,696 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:02:50,059 - INFO - Processando PDF: AMCU9310099.pdf com método: auto
+2025-05-29 11:02:50,062 - ERROR - Erro ao inicializar cliente OpenAI: module 'openai' has no attribute 'OpenAI'
+2025-05-29 11:02:50,062 - INFO - Iniciando extração do PDF com método: auto
+2025-05-29 11:02:50,063 - INFO - Extraindo texto do PDF
+2025-05-29 11:02:51,103 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 11:02:51,107 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 11:02:51,107 - INFO - Recorrendo a OCR e regex
+2025-05-29 11:02:51,107 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 11:02:51,649 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:10:33,465 - INFO - Processando PDF: AMCU9310099.pdf com método: auto
+2025-05-29 11:10:33,641 - ERROR - Erro ao inicializar cliente OpenAI: module 'openai' has no attribute 'OpenAI'
+2025-05-29 11:10:33,642 - INFO - Iniciando extração do PDF com método: auto
+2025-05-29 11:10:33,642 - INFO - Extraindo texto do PDF
+2025-05-29 11:10:34,576 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 11:10:34,620 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 11:10:34,620 - INFO - Recorrendo a OCR e regex
+2025-05-29 11:10:34,620 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 11:10:35,127 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:10:49,020 - INFO - Processando PDF: AMCU9310099.pdf com método: openai
+2025-05-29 11:10:49,022 - ERROR - Erro ao inicializar cliente OpenAI: module 'openai' has no attribute 'OpenAI'
+2025-05-29 11:10:49,022 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 11:10:49,023 - INFO - Extraindo texto do PDF
+2025-05-29 11:10:50,020 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 11:10:50,028 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 11:10:50,028 - ERROR - OpenAI não configurado
+2025-05-29 11:10:50,030 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 11:10:50,033 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 11:10:50,546 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:12:13,010 - INFO - Processando PDF: AMCU9310099.pdf com método: auto
+2025-05-29 11:12:13,012 - ERROR - Erro ao inicializar cliente OpenAI: module 'openai' has no attribute 'OpenAI'
+2025-05-29 11:12:13,013 - INFO - Iniciando extração do PDF com método: auto
+2025-05-29 11:12:13,013 - INFO - Extraindo texto do PDF
+2025-05-29 11:12:15,573 - INFO - OCR concluído para página 1
+2025-05-29 11:12:15,578 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 11:12:15,578 - INFO - Recorrendo a OCR e regex
+2025-05-29 11:12:15,578 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 11:12:16,093 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:12:26,226 - INFO - Processando PDF: AMCU9310099.pdf com método: openai
+2025-05-29 11:12:26,229 - ERROR - Erro ao inicializar cliente OpenAI: module 'openai' has no attribute 'OpenAI'
+2025-05-29 11:12:26,229 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 11:12:26,230 - INFO - Extraindo texto do PDF
+2025-05-29 11:12:28,895 - INFO - OCR concluído para página 1
+2025-05-29 11:12:28,898 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 11:12:28,899 - ERROR - OpenAI não configurado
+2025-05-29 11:12:28,899 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 11:12:28,900 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 11:12:29,447 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:13:35,268 - INFO - Processando PDF: AMCU9310099.pdf com método: ocr
+2025-05-29 11:13:35,269 - ERROR - Erro ao inicializar cliente OpenAI: module 'openai' has no attribute 'OpenAI'
+2025-05-29 11:13:35,270 - INFO - Iniciando extração do PDF com método: ocr
+2025-05-29 11:13:35,270 - INFO - Extraindo texto do PDF
+2025-05-29 11:13:37,689 - INFO - OCR concluído para página 1
+2025-05-29 11:13:37,696 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 11:13:37,696 - INFO - Usando OCR e regex para extração
+2025-05-29 11:13:37,696 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 11:13:38,252 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:13:42,745 - ERROR - Erro ao treinar assistente OpenAI: module 'openai' has no attribute 'OpenAI'
+2025-05-29 11:13:42,750 - ERROR - Traceback (most recent call last):
+  File "C:\GitHub\nectartecembedded\vicunha_IA\extrator_pdf_openai_corrigido.py", line 803, in train_openai_assistant
+    client = openai.OpenAI(api_key=api_key)
+             ^^^^^^^^^^^^^
+AttributeError: module 'openai' has no attribute 'OpenAI'
+
+2025-05-29 11:13:46,578 - INFO - Processando PDF: AMCU9310099.pdf com método: openai
+2025-05-29 11:13:46,579 - ERROR - Erro ao inicializar cliente OpenAI: module 'openai' has no attribute 'OpenAI'
+2025-05-29 11:13:46,580 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 11:13:46,581 - INFO - Extraindo texto do PDF
+2025-05-29 11:13:49,025 - INFO - OCR concluído para página 1
+2025-05-29 11:13:49,028 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 11:13:49,029 - ERROR - OpenAI não configurado
+2025-05-29 11:13:49,029 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 11:13:49,030 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 11:13:49,501 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:20:29,730 - INFO - Processando PDF: AMCU9310099.pdf com método: auto
+2025-05-29 11:20:29,732 - ERROR - Erro ao inicializar cliente OpenAI: module 'openai' has no attribute 'OpenAI'
+2025-05-29 11:20:29,733 - INFO - Iniciando extração do PDF com método: auto
+2025-05-29 11:20:29,733 - INFO - Extraindo texto do PDF
+2025-05-29 11:20:32,019 - INFO - OCR concluído para página 1
+2025-05-29 11:20:32,023 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 11:20:32,023 - INFO - Recorrendo a OCR e regex
+2025-05-29 11:20:32,023 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 11:20:32,465 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:20:37,852 - INFO - Processando PDF: AMCU9310099.pdf com método: openai
+2025-05-29 11:20:37,854 - ERROR - Erro ao inicializar cliente OpenAI: module 'openai' has no attribute 'OpenAI'
+2025-05-29 11:20:37,854 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 11:20:37,855 - INFO - Extraindo texto do PDF
+2025-05-29 11:20:40,261 - INFO - OCR concluído para página 1
+2025-05-29 11:20:40,268 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 11:20:40,268 - ERROR - OpenAI não configurado
+2025-05-29 11:20:40,278 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 11:20:40,279 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 11:20:40,829 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:20:44,769 - ERROR - Erro ao treinar assistente OpenAI: module 'openai' has no attribute 'OpenAI'
+2025-05-29 11:20:44,771 - ERROR - Traceback (most recent call last):
+  File "C:\GitHub\nectartecembedded\vicunha_IA\extrator_pdf_openai_corrigido.py", line 803, in train_openai_assistant
+    client = openai.OpenAI(api_key=api_key)
+             ^^^^^^^^^^^^^
+AttributeError: module 'openai' has no attribute 'OpenAI'
+
+2025-05-29 11:20:50,510 - INFO - Processando PDF: AMCU9310099.pdf com método: openai
+2025-05-29 11:20:50,512 - ERROR - Erro ao inicializar cliente OpenAI: module 'openai' has no attribute 'OpenAI'
+2025-05-29 11:20:50,513 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 11:20:50,513 - INFO - Extraindo texto do PDF
+2025-05-29 11:20:53,049 - INFO - OCR concluído para página 1
+2025-05-29 11:20:53,055 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 11:20:53,055 - ERROR - OpenAI não configurado
+2025-05-29 11:20:53,056 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 11:20:53,061 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 11:20:53,565 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:23:40,387 - INFO - Processando PDF: AMCU9310099.pdf com método: auto
+2025-05-29 11:23:42,054 - INFO - Cliente OpenAI inicializado com sucesso
+2025-05-29 11:23:42,055 - INFO - Iniciando extração do PDF com método: auto
+2025-05-29 11:23:42,055 - INFO - Extraindo texto do PDF
+2025-05-29 11:23:44,261 - INFO - OCR concluído para página 1
+2025-05-29 11:23:44,266 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 11:23:44,266 - INFO - Tentando extração com OpenAI
+2025-05-29 11:23:44,266 - INFO - Extraindo dados com OpenAI
+2025-05-29 11:23:45,521 - INFO - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2025-05-29 11:23:45,528 - INFO - Thread criado: thread_21oLkAdys9wbSsxTshsSPV0y
+2025-05-29 11:23:46,209 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_21oLkAdys9wbSsxTshsSPV0y/messages "HTTP/1.1 200 OK"
+2025-05-29 11:23:47,968 - INFO - HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2025-05-29 11:23:47,973 - ERROR - Erro ao extrair dados com OpenAI: Messages.create() got an unexpected keyword argument 'file_ids'
+2025-05-29 11:23:47,975 - ERROR - Traceback (most recent call last):
+  File "C:\GitHub\nectartecembedded\vicunha_IA\extrator_pdf_openai_corrigido.py", line 560, in extrair_com_openai
+    self.openai_client.beta.threads.messages.create(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        thread_id=thread.id,
+        ^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        file_ids=[file_obj.id]
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+TypeError: Messages.create() got an unexpected keyword argument 'file_ids'
+
+2025-05-29 11:23:47,976 - INFO - Recorrendo a OCR e regex
+2025-05-29 11:23:47,977 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 11:23:48,561 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:23:56,927 - INFO - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2025-05-29 11:24:05,229 - INFO - HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2025-05-29 11:24:05,230 - ERROR - Erro ao treinar assistente OpenAI: Messages.create() got an unexpected keyword argument 'file_ids'
+2025-05-29 11:24:05,231 - ERROR - Traceback (most recent call last):
+  File "C:\GitHub\nectartecembedded\vicunha_IA\extrator_pdf_openai_corrigido.py", line 824, in train_openai_assistant
+    client.beta.threads.messages.create(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        thread_id=thread.id,
+        ^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        file_ids=[file_obj.id]
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+TypeError: Messages.create() got an unexpected keyword argument 'file_ids'
+
+2025-05-29 11:36:40,671 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:36:40,676 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:36:45,115 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:36:45,123 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:36:48,094 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:36:48,095 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:36:48,771 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:36:48,771 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:36:48,778 - INFO - Processando PDF: AMCU9310099.pdf com método: openai
+2025-05-29 11:36:48,782 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 11:36:48,783 - INFO - Extraindo texto do PDF
+2025-05-29 11:36:49,748 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 11:36:49,805 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 11:36:49,806 - ERROR - OpenAI não configurado
+2025-05-29 11:36:49,807 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 11:36:49,809 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 11:36:50,401 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:38:00,239 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:38:00,240 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:38:03,746 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:38:03,759 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:38:05,599 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:38:05,601 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:38:05,608 - INFO - Processando PDF: AMCU9310099.pdf com método: auto
+2025-05-29 11:38:06,178 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 11:38:06,178 - INFO - Iniciando extração do PDF com método: auto
+2025-05-29 11:38:06,178 - INFO - Extraindo texto do PDF
+2025-05-29 11:38:07,259 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 11:38:07,263 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 11:38:07,264 - INFO - Recorrendo a OCR e regex
+2025-05-29 11:38:07,264 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 11:38:07,966 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:41:05,488 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:41:05,489 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:41:07,036 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:41:07,036 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:41:07,593 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:41:07,593 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:41:08,022 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:41:08,023 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:41:08,031 - INFO - Processando PDF: AMCU9310099.pdf com método: openai
+2025-05-29 11:41:08,033 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 11:41:08,033 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 11:41:08,034 - INFO - Extraindo texto do PDF
+2025-05-29 11:41:09,121 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 11:41:09,127 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 11:41:09,127 - ERROR - OpenAI não configurado
+2025-05-29 11:41:09,128 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 11:41:09,128 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 11:41:09,689 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:41:12,687 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:41:12,688 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:41:13,435 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:41:13,436 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:41:13,443 - INFO - Processando PDF: AMCU9310099.pdf com método: ocr
+2025-05-29 11:41:13,445 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 11:41:13,445 - INFO - Iniciando extração do PDF com método: ocr
+2025-05-29 11:41:13,446 - INFO - Extraindo texto do PDF
+2025-05-29 11:41:14,460 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 11:41:14,466 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 11:41:14,466 - INFO - Usando OCR e regex para extração
+2025-05-29 11:41:14,467 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 11:41:15,009 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:43:45,351 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:43:45,351 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:43:50,808 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:43:50,810 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:43:57,418 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:43:57,419 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:43:57,426 - INFO - Processando PDF: AMCU9310099.pdf com método: auto
+2025-05-29 11:43:58,101 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 11:43:58,102 - INFO - Iniciando extração do PDF com método: auto
+2025-05-29 11:43:58,102 - INFO - Extraindo texto do PDF
+2025-05-29 11:43:59,211 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 11:43:59,259 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 11:43:59,260 - INFO - Recorrendo a OCR e regex
+2025-05-29 11:43:59,260 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 11:43:59,887 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:44:04,038 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:44:04,040 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:44:05,701 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:44:05,702 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:44:05,710 - INFO - Processando PDF: AMCU9310099.pdf com método: openai
+2025-05-29 11:44:05,712 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 11:44:05,712 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 11:44:05,713 - INFO - Extraindo texto do PDF
+2025-05-29 11:44:06,682 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 11:44:06,689 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 11:44:06,690 - ERROR - OpenAI não configurado
+2025-05-29 11:44:06,691 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 11:44:06,692 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 11:44:07,144 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:44:18,754 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:44:18,755 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:44:20,110 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:44:20,111 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:44:20,119 - INFO - Processando PDF: AMCU9310099.pdf com método: openai
+2025-05-29 11:44:20,120 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 11:44:20,121 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 11:44:20,122 - INFO - Extraindo texto do PDF
+2025-05-29 11:44:21,153 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 11:44:21,158 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 11:44:21,158 - ERROR - OpenAI não configurado
+2025-05-29 11:44:21,159 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 11:44:21,160 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 11:44:21,675 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:53:42,386 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:53:42,387 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:53:47,415 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:53:47,416 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:53:50,123 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:53:50,124 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:53:50,132 - INFO - Processando PDF: AMCU9310099.pdf com método: auto
+2025-05-29 11:53:50,135 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 11:53:50,136 - INFO - Iniciando extração do PDF com método: auto
+2025-05-29 11:53:50,136 - INFO - Extraindo texto do PDF
+2025-05-29 11:53:51,132 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 11:53:51,136 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 11:53:51,136 - INFO - Recorrendo a OCR e regex
+2025-05-29 11:53:51,137 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 11:53:51,701 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:53:55,986 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:53:55,987 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:53:56,906 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:53:56,907 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:53:56,915 - INFO - Processando PDF: AMCU9310099.pdf com método: openai
+2025-05-29 11:53:56,917 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 11:53:56,917 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 11:53:56,918 - INFO - Extraindo texto do PDF
+2025-05-29 11:53:57,759 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 11:53:57,769 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 11:53:57,776 - ERROR - OpenAI não configurado
+2025-05-29 11:53:57,780 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 11:53:57,780 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 11:53:58,272 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:54:45,010 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:54:45,011 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:54:45,017 - INFO - Processando PDF: AMCU9310099.pdf com método: openai
+2025-05-29 11:54:45,018 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 11:54:45,018 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 11:54:45,018 - INFO - Extraindo texto do PDF
+2025-05-29 11:54:45,906 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 11:54:45,910 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 11:54:45,910 - ERROR - OpenAI não configurado
+2025-05-29 11:54:45,911 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 11:54:45,911 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 11:54:46,362 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 11:55:03,578 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:55:03,579 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:55:04,354 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 11:55:04,355 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 11:55:04,363 - INFO - Processando PDF: AMCU9310099.pdf com método: auto
+2025-05-29 11:55:04,365 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 11:55:04,365 - INFO - Iniciando extração do PDF com método: auto
+2025-05-29 11:55:04,366 - INFO - Extraindo texto do PDF
+2025-05-29 11:55:05,349 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 11:55:05,353 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 11:55:05,353 - INFO - Recorrendo a OCR e regex
+2025-05-29 11:55:05,353 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 11:55:05,886 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 12:24:25,983 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:24:25,983 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:25:09,591 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:25:09,591 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:25:09,593 - INFO - Chave de API OpenAI carregada do arquivo secrets.toml
+2025-05-29 12:25:09,595 - INFO - ID do assistente OpenAI carregado do arquivo secrets.toml
+2025-05-29 12:25:13,608 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:25:13,610 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:25:16,982 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:25:16,983 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:25:16,991 - INFO - Processando PDF: AMCU9310099.pdf com método: auto
+2025-05-29 12:25:17,727 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 12:25:17,729 - INFO - Iniciando extração do PDF com método: auto
+2025-05-29 12:25:17,730 - INFO - Extraindo texto do PDF
+2025-05-29 12:25:18,919 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 12:25:19,064 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 12:25:19,064 - INFO - Recorrendo a OCR e regex
+2025-05-29 12:25:19,064 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 12:25:19,620 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 12:25:24,290 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:25:24,291 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:25:25,296 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:25:25,297 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:25:25,304 - INFO - Processando PDF: AMCU9310099.pdf com método: openai
+2025-05-29 12:25:25,307 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 12:25:25,307 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 12:25:25,308 - INFO - Extraindo texto do PDF
+2025-05-29 12:25:26,379 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 12:25:26,385 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 12:25:26,395 - ERROR - OpenAI não configurado
+2025-05-29 12:25:26,396 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 12:25:26,397 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 12:25:27,035 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 12:25:30,571 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:25:30,572 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:25:31,164 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:25:31,165 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:25:31,174 - INFO - Processando PDF: AMCU9310099.pdf com método: ocr
+2025-05-29 12:25:31,176 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 12:25:31,176 - INFO - Iniciando extração do PDF com método: ocr
+2025-05-29 12:25:31,177 - INFO - Extraindo texto do PDF
+2025-05-29 12:25:32,368 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 12:25:32,373 - INFO - Tipo de documento detectado: desconhecido
+2025-05-29 12:25:32,374 - INFO - Usando OCR e regex para extração
+2025-05-29 12:25:32,374 - INFO - Extraindo dados com regex para documento do tipo desconhecido
+2025-05-29 12:25:32,951 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 12:25:41,527 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:25:41,528 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:26:24,649 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:26:24,650 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:26:24,651 - INFO - Chave de API OpenAI carregada do arquivo secrets.toml
+2025-05-29 12:26:24,651 - INFO - ID do assistente OpenAI carregado do arquivo secrets.toml
+2025-05-29 12:26:27,860 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:26:27,863 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:26:29,821 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:26:29,821 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:26:29,829 - INFO - Processando PDF: AMCU9310099.pdf com método: auto
+2025-05-29 12:26:29,831 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 12:26:29,832 - INFO - Iniciando extração do PDF com método: auto
+2025-05-29 12:26:29,832 - INFO - Extraindo texto do PDF
+2025-05-29 12:26:32,377 - INFO - OCR concluído para página 1
+2025-05-29 12:26:32,382 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 12:26:32,383 - INFO - Recorrendo a OCR e regex
+2025-05-29 12:26:32,383 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 12:26:32,977 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 12:26:39,649 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:26:39,650 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:26:40,309 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:26:40,311 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:26:40,315 - INFO - Processando PDF: AMCU9310099.pdf com método: openai
+2025-05-29 12:26:40,317 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 12:26:40,318 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 12:26:40,318 - INFO - Extraindo texto do PDF
+2025-05-29 12:26:42,778 - INFO - OCR concluído para página 1
+2025-05-29 12:26:42,783 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 12:26:42,784 - ERROR - OpenAI não configurado
+2025-05-29 12:26:42,785 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 12:26:42,786 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 12:26:43,354 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 12:29:25,563 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:29:25,564 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:29:25,571 - INFO - Processando PDF: AMCU9310099.pdf com método: openai
+2025-05-29 12:29:25,573 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 12:29:25,573 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 12:29:25,574 - INFO - Extraindo texto do PDF
+2025-05-29 12:29:28,071 - INFO - OCR concluído para página 1
+2025-05-29 12:29:28,074 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 12:29:28,074 - ERROR - OpenAI não configurado
+2025-05-29 12:29:28,074 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 12:29:28,075 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 12:29:28,580 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 12:29:34,282 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:29:34,283 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:29:35,180 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:29:35,181 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:29:35,188 - INFO - Processando PDF: AMCU9310099.pdf com método: ocr
+2025-05-29 12:29:35,190 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 12:29:35,190 - INFO - Iniciando extração do PDF com método: ocr
+2025-05-29 12:29:35,191 - INFO - Extraindo texto do PDF
+2025-05-29 12:29:37,737 - INFO - OCR concluído para página 1
+2025-05-29 12:29:37,740 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 12:29:37,741 - INFO - Usando OCR e regex para extração
+2025-05-29 12:29:37,741 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 12:29:38,219 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 12:34:19,988 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:34:19,989 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:34:19,990 - INFO - Chave de API OpenAI carregada do arquivo secrets.toml
+2025-05-29 12:34:19,991 - INFO - ID do assistente OpenAI carregado do arquivo secrets.toml
+2025-05-29 12:34:24,916 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:34:24,916 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:34:27,354 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:34:27,354 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:34:27,363 - INFO - Processando PDF: AMCU9310099.pdf com método: auto
+2025-05-29 12:34:27,365 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 12:34:27,366 - INFO - Iniciando extração do PDF com método: auto
+2025-05-29 12:34:27,366 - INFO - Extraindo texto do PDF
+2025-05-29 12:34:29,905 - INFO - OCR concluído para página 1
+2025-05-29 12:34:29,911 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 12:34:29,911 - INFO - Recorrendo a OCR e regex
+2025-05-29 12:34:29,911 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 12:34:29,911 - INFO - Início da tabela de produtos detectado na linha 14: Description ref Currency Rate Sum of inveqnt Sum of Currency Converted Total Amount
+2025-05-29 12:34:29,912 - INFO - Fim da tabela de produtos detectado na linha 66: Grand Total 5,600 € 7,166.73
+2025-05-29 12:34:29,912 - INFO - Encontradas 28 linhas na tabela de produtos
+2025-05-29 12:34:29,913 - INFO - Produto encontrado (padrão alternativo): Freight  Charge to Grower
+2025-05-29 12:34:29,913 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 12:34:29,913 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 12:34:29,914 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 12:34:29,914 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 12:34:29,914 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 12:34:29,914 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 12:34:29,914 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil Total
+2025-05-29 12:34:29,914 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 12:34:29,914 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 12:34:29,915 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 12:34:29,915 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil Total
+2025-05-29 12:34:29,915 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 12:34:29,915 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 12:34:29,915 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 12:34:29,915 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil Total
+2025-05-29 12:34:29,915 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 12:34:29,916 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 12:34:29,916 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 12:34:29,916 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil Total
+2025-05-29 12:34:29,916 - INFO - Produto encontrado (padrão alternativo): Pick  Pack Recovery upon shipment
+2025-05-29 12:34:29,916 - INFO - Produto encontrado (padrão alternativo): Mango Carton SCT KG Palmer Conventional Brazil
+2025-05-29 12:34:29,916 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 12:34:29,916 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil      _
+2025-05-29 12:34:29,916 - INFO - Produto encontrado (padrão alternativo): Mango Carton SCT KG Palmer Conventional Brazil Total
+2025-05-29 12:34:29,917 - INFO - Produto encontrado (padrão alternativo): Repacking Charges
+2025-05-29 12:34:29,917 - INFO - Extração concluída. Encontrados 26 produtos.
+2025-05-29 12:34:30,392 - INFO - PDF processado com sucesso: AMCU9310099.pdf
+2025-05-29 12:34:42,548 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:34:42,549 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:34:44,684 - INFO - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2025-05-29 12:34:45,920 - INFO - HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2025-05-29 12:34:45,921 - WARNING - Erro ao usar file_ids: Messages.create() got an unexpected keyword argument 'file_ids'
+2025-05-29 12:34:46,579 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_ENxMDmfFuRrhiGQj50i8h7dp/messages "HTTP/1.1 200 OK"
+2025-05-29 12:34:47,004 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_ENxMDmfFuRrhiGQj50i8h7dp/messages "HTTP/1.1 200 OK"
+2025-05-29 12:34:48,361 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_ENxMDmfFuRrhiGQj50i8h7dp/runs "HTTP/1.1 200 OK"
+2025-05-29 12:34:50,676 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_ENxMDmfFuRrhiGQj50i8h7dp/runs/run_wt7d6L20kE0VGQANiXCVxiKJ "HTTP/1.1 200 OK"
+2025-05-29 12:34:52,090 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_ENxMDmfFuRrhiGQj50i8h7dp/runs/run_wt7d6L20kE0VGQANiXCVxiKJ "HTTP/1.1 200 OK"
+2025-05-29 12:34:52,093 - INFO - Assistente treinado com sucesso
+2025-05-29 12:34:58,429 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:34:58,429 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:36:40,307 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:36:40,307 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:36:40,403 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:36:40,403 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:36:41,258 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:36:41,259 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:36:41,349 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:36:41,350 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:39:21,503 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:39:21,504 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:39:23,696 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:39:23,697 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:39:23,704 - INFO - Processando PDF: SEGU9026453.pdf com método: auto
+2025-05-29 12:39:23,706 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 12:39:23,706 - INFO - Iniciando extração do PDF com método: auto
+2025-05-29 12:39:23,707 - INFO - Extraindo texto do PDF
+2025-05-29 12:39:25,587 - INFO - OCR concluído para página 1
+2025-05-29 12:39:25,591 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 12:39:25,592 - INFO - Recorrendo a OCR e regex
+2025-05-29 12:39:25,592 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 12:39:25,592 - INFO - Início da tabela de produtos detectado na linha 67: Sum of Currency Converted Total Amount
+2025-05-29 12:39:25,592 - INFO - Encontradas 24 linhas na tabela de produtos
+2025-05-29 12:39:25,592 - INFO - Tentando extração baseada em espaçamento
+2025-05-29 12:39:25,593 - INFO - Extração concluída. Encontrados 0 produtos.
+2025-05-29 12:39:25,978 - INFO - PDF processado com sucesso: SEGU9026453.pdf
+2025-05-29 12:39:33,499 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:39:33,500 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:39:34,038 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:39:34,041 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:39:34,054 - INFO - Processando PDF: SEGU9026453.pdf com método: openai
+2025-05-29 12:39:34,056 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 12:39:34,057 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 12:39:34,057 - INFO - Extraindo texto do PDF
+2025-05-29 12:39:35,959 - INFO - OCR concluído para página 1
+2025-05-29 12:39:35,967 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 12:39:35,967 - WARNING - OpenAI não configurado
+2025-05-29 12:39:35,969 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 12:39:36,026 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 12:39:36,026 - INFO - Início da tabela de produtos detectado na linha 67: Sum of Currency Converted Total Amount
+2025-05-29 12:39:36,026 - INFO - Encontradas 24 linhas na tabela de produtos
+2025-05-29 12:39:36,027 - INFO - Tentando extração baseada em espaçamento
+2025-05-29 12:39:36,027 - INFO - Extração concluída. Encontrados 0 produtos.
+2025-05-29 12:39:36,442 - INFO - PDF processado com sucesso: SEGU9026453.pdf
+2025-05-29 12:39:50,796 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:39:50,797 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:40:33,296 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:40:33,296 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:40:33,778 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:40:33,778 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:40:33,784 - INFO - Processando PDF: SEGU9026453.pdf com método: openai
+2025-05-29 12:40:33,785 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 12:40:33,786 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 12:40:33,786 - INFO - Extraindo texto do PDF
+2025-05-29 12:40:35,811 - INFO - OCR concluído para página 1
+2025-05-29 12:40:35,817 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 12:40:35,817 - WARNING - OpenAI não configurado
+2025-05-29 12:40:35,818 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 12:40:35,818 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 12:40:35,819 - INFO - Início da tabela de produtos detectado na linha 67: Sum of Currency Converted Total Amount
+2025-05-29 12:40:35,837 - INFO - Encontradas 24 linhas na tabela de produtos
+2025-05-29 12:40:35,838 - INFO - Tentando extração baseada em espaçamento
+2025-05-29 12:40:35,838 - INFO - Extração concluída. Encontrados 0 produtos.
+2025-05-29 12:40:36,217 - INFO - PDF processado com sucesso: SEGU9026453.pdf
+2025-05-29 12:42:17,405 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:42:17,405 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:42:17,434 - INFO - Chave de API OpenAI carregada do arquivo secrets.toml
+2025-05-29 12:42:17,435 - INFO - ID do assistente OpenAI carregado do arquivo secrets.toml
+2025-05-29 12:42:23,226 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:42:23,230 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:42:24,707 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:42:24,708 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:42:24,715 - INFO - Processando PDF: SEGU9026453.pdf com método: auto
+2025-05-29 12:42:25,335 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 12:42:25,337 - INFO - Iniciando extração do PDF com método: auto
+2025-05-29 12:42:25,337 - INFO - Extraindo texto do PDF
+2025-05-29 12:42:27,167 - INFO - OCR concluído para página 1
+2025-05-29 12:42:27,174 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 12:42:27,174 - INFO - Recorrendo a OCR e regex
+2025-05-29 12:42:27,174 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 12:42:27,176 - INFO - Início da tabela de produtos detectado na linha 67: Sum of Currency Converted Total Amount
+2025-05-29 12:42:27,177 - INFO - Encontradas 24 linhas na tabela de produtos
+2025-05-29 12:42:27,178 - INFO - Tentando extração baseada em espaçamento
+2025-05-29 12:42:27,181 - INFO - Extração concluída. Encontrados 0 produtos.
+2025-05-29 12:42:27,645 - INFO - PDF processado com sucesso: SEGU9026453.pdf
+2025-05-29 12:42:31,925 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:42:31,926 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:42:32,360 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:42:32,361 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:42:32,369 - INFO - Processando PDF: SEGU9026453.pdf com método: openai
+2025-05-29 12:42:32,370 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 12:42:32,371 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 12:42:32,371 - INFO - Extraindo texto do PDF
+2025-05-29 12:42:34,188 - INFO - OCR concluído para página 1
+2025-05-29 12:42:34,192 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 12:42:34,192 - WARNING - OpenAI não configurado
+2025-05-29 12:42:34,193 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 12:42:34,194 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 12:42:34,195 - INFO - Início da tabela de produtos detectado na linha 67: Sum of Currency Converted Total Amount
+2025-05-29 12:42:34,196 - INFO - Encontradas 24 linhas na tabela de produtos
+2025-05-29 12:42:34,197 - INFO - Tentando extração baseada em espaçamento
+2025-05-29 12:42:34,199 - INFO - Extração concluída. Encontrados 0 produtos.
+2025-05-29 12:42:34,721 - INFO - PDF processado com sucesso: SEGU9026453.pdf
+2025-05-29 12:46:11,550 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:46:11,551 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:46:11,688 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:46:11,694 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:46:19,892 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:46:19,892 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:46:19,985 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:46:19,986 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:46:32,454 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:46:32,454 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:46:32,462 - INFO - Processando PDF: SEGU9026453.pdf com método: openai
+2025-05-29 12:46:32,464 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 12:46:32,465 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 12:46:32,466 - INFO - Extraindo texto do PDF
+2025-05-29 12:46:34,176 - INFO - OCR concluído para página 1
+2025-05-29 12:46:34,180 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 12:46:34,181 - WARNING - OpenAI não configurado
+2025-05-29 12:46:34,182 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 12:46:34,182 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 12:46:34,209 - INFO - Início da tabela de produtos detectado na linha 67: Sum of Currency Converted Total Amount
+2025-05-29 12:46:34,210 - INFO - Encontradas 24 linhas na tabela de produtos
+2025-05-29 12:46:34,210 - INFO - Tentando extração baseada em espaçamento
+2025-05-29 12:46:34,211 - INFO - Extração concluída. Encontrados 0 produtos.
+2025-05-29 12:46:34,664 - INFO - PDF processado com sucesso: SEGU9026453.pdf
+2025-05-29 12:53:07,541 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:53:07,542 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:53:07,624 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:53:07,625 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:53:16,625 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:53:16,626 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:53:20,953 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:53:20,954 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:53:41,227 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:53:41,228 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:53:50,179 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:53:50,180 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:53:50,275 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:53:50,280 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:54:08,977 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:54:08,977 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:54:09,070 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:54:09,071 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 12:54:16,793 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 12:54:16,794 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:03:48,396 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:03:48,397 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:03:48,428 - INFO - Chave de API OpenAI carregada do arquivo secrets.toml
+2025-05-29 13:03:48,428 - INFO - ID do assistente OpenAI carregado do arquivo secrets.toml
+2025-05-29 13:03:55,754 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:03:55,756 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:03:58,603 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:03:58,604 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:03:58,611 - INFO - Processando PDF: SEGU9026453.pdf com método: auto
+2025-05-29 13:03:59,299 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 13:03:59,301 - INFO - Iniciando extração do PDF com método: auto
+2025-05-29 13:03:59,301 - INFO - Extraindo texto do PDF
+2025-05-29 13:03:59,992 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 13:04:00,127 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 13:04:00,127 - INFO - Recorrendo a OCR e regex
+2025-05-29 13:04:00,127 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 13:04:00,128 - INFO - Detectado formato de relatório de liquidação (settlement report)
+2025-05-29 13:04:00,133 - INFO - Nenhum produto encontrado com o padrão de relatório de liquidação, tentando métodos genéricos
+2025-05-29 13:04:00,133 - INFO - Início da tabela de produtos detectado na linha 5: Description ref Currency Rate Sum of invcqnt Sum of Currency Converted Total Amount
+2025-05-29 13:04:00,133 - INFO - Encontradas 19 linhas na tabela de produtos
+2025-05-29 13:04:00,135 - INFO - Produto encontrado (padrão alternativo): Freight  Charge to Grower
+2025-05-29 13:04:00,135 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 13:04:00,136 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 13:04:00,137 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil Total
+2025-05-29 13:04:00,137 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 13:04:00,137 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 13:04:00,137 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil Total
+2025-05-29 13:04:00,138 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 13:04:00,138 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 13:04:00,138 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil Total
+2025-05-29 13:04:00,139 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 13:04:00,139 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil Total
+2025-05-29 13:04:00,139 - INFO - Produto encontrado (padrão alternativo): Pick  Pack Recovery upon shipment
+2025-05-29 13:04:00,139 - INFO - Produto encontrado: Palmer Conventional Brazil
+2025-05-29 13:04:00,139 - INFO - Produto encontrado: Palmer Conventional Brazil
+2025-05-29 13:04:00,139 - INFO - Produto encontrado: Palmer Conventional Brazil Total
+2025-05-29 13:04:00,140 - INFO - Produto encontrado (padrão alternativo): Grand Total
+2025-05-29 13:04:00,140 - INFO - Extração concluída. Encontrados 17 produtos.
+2025-05-29 13:04:00,587 - INFO - PDF processado com sucesso: SEGU9026453.pdf
+2025-05-29 13:04:11,465 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:04:11,482 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:04:18,303 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:04:18,304 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:04:18,999 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:04:19,000 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:04:19,008 - INFO - Processando PDF: SEGU9026453.pdf com método: openai
+2025-05-29 13:04:19,010 - ERROR - Erro ao inicializar cliente OpenAI: cannot access local variable 'is_new_api' where it is not associated with a value
+2025-05-29 13:04:19,011 - INFO - Iniciando extração do PDF com método: openai
+2025-05-29 13:04:19,011 - INFO - Extraindo texto do PDF
+2025-05-29 13:04:19,648 - ERROR - Erro ao extrair texto com OCR: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-05-29 13:04:19,687 - INFO - Tipo de documento detectado: settlement_report
+2025-05-29 13:04:19,687 - WARNING - OpenAI não configurado
+2025-05-29 13:04:19,688 - INFO - Recorrendo a OCR e regex como fallback
+2025-05-29 13:04:19,688 - INFO - Extraindo dados com regex para documento do tipo settlement_report
+2025-05-29 13:04:19,689 - INFO - Detectado formato de relatório de liquidação (settlement report)
+2025-05-29 13:04:19,691 - INFO - Nenhum produto encontrado com o padrão de relatório de liquidação, tentando métodos genéricos
+2025-05-29 13:04:19,692 - INFO - Início da tabela de produtos detectado na linha 5: Description ref Currency Rate Sum of invcqnt Sum of Currency Converted Total Amount
+2025-05-29 13:04:19,693 - INFO - Encontradas 19 linhas na tabela de produtos
+2025-05-29 13:04:19,694 - INFO - Produto encontrado (padrão alternativo): Freight  Charge to Grower
+2025-05-29 13:04:19,694 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 13:04:19,695 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 13:04:19,695 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil Total
+2025-05-29 13:04:19,695 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 13:04:19,695 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 13:04:19,696 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil Total
+2025-05-29 13:04:19,697 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 13:04:19,697 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 13:04:19,697 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil Total
+2025-05-29 13:04:19,698 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil
+2025-05-29 13:04:19,706 - INFO - Produto encontrado (padrão alternativo): Mango Carton CT KG Palmer Conventional Brazil Total
+2025-05-29 13:04:19,711 - INFO - Produto encontrado (padrão alternativo): Pick  Pack Recovery upon shipment
+2025-05-29 13:04:19,712 - INFO - Produto encontrado: Palmer Conventional Brazil
+2025-05-29 13:04:19,726 - INFO - Produto encontrado: Palmer Conventional Brazil
+2025-05-29 13:04:19,729 - INFO - Produto encontrado: Palmer Conventional Brazil Total
+2025-05-29 13:04:19,729 - INFO - Produto encontrado (padrão alternativo): Grand Total
+2025-05-29 13:04:19,729 - INFO - Extração concluída. Encontrados 17 produtos.
+2025-05-29 13:04:20,186 - INFO - PDF processado com sucesso: SEGU9026453.pdf
+2025-05-29 13:04:29,937 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:04:29,938 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:04:31,907 - INFO - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2025-05-29 13:04:32,919 - INFO - HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2025-05-29 13:04:32,921 - WARNING - Erro ao usar file_ids: Messages.create() got an unexpected keyword argument 'file_ids'
+2025-05-29 13:04:33,955 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_CVuHUDucRwbZygKNgCwmzdm7/messages "HTTP/1.1 200 OK"
+2025-05-29 13:04:34,586 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_CVuHUDucRwbZygKNgCwmzdm7/messages "HTTP/1.1 200 OK"
+2025-05-29 13:04:35,998 - INFO - HTTP Request: POST https://api.openai.com/v1/threads/thread_CVuHUDucRwbZygKNgCwmzdm7/runs "HTTP/1.1 200 OK"
+2025-05-29 13:04:36,537 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_CVuHUDucRwbZygKNgCwmzdm7/runs/run_2y40CWg8mLjqWU0iYCMpTX4D "HTTP/1.1 200 OK"
+2025-05-29 13:04:37,942 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_CVuHUDucRwbZygKNgCwmzdm7/runs/run_2y40CWg8mLjqWU0iYCMpTX4D "HTTP/1.1 200 OK"
+2025-05-29 13:04:39,380 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_CVuHUDucRwbZygKNgCwmzdm7/runs/run_2y40CWg8mLjqWU0iYCMpTX4D "HTTP/1.1 200 OK"
+2025-05-29 13:04:40,905 - INFO - HTTP Request: GET https://api.openai.com/v1/threads/thread_CVuHUDucRwbZygKNgCwmzdm7/runs/run_2y40CWg8mLjqWU0iYCMpTX4D "HTTP/1.1 200 OK"
+2025-05-29 13:04:40,913 - INFO - Assistente treinado com sucesso
+2025-05-29 13:05:17,122 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:05:17,129 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:05:28,441 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:05:28,459 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:06:13,447 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:06:13,448 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:07:07,739 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:07:07,739 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:07:07,770 - INFO - Chave de API OpenAI carregada do arquivo secrets.toml
+2025-05-29 13:07:07,770 - INFO - ID do assistente OpenAI carregado do arquivo secrets.toml
+2025-05-29 13:07:11,866 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:07:11,867 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:07:13,403 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:07:13,403 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:07:19,169 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:07:19,170 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:07:22,143 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:07:22,143 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:07:22,144 - INFO - Chave de API OpenAI carregada do arquivo secrets.toml
+2025-05-29 13:07:22,144 - INFO - ID do assistente OpenAI carregado do arquivo secrets.toml
+2025-05-29 13:07:25,334 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:07:25,335 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:07:29,535 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:07:29,536 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:07:32,534 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:07:32,535 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:07:33,697 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:07:33,697 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:07:35,176 - INFO - Versão da biblioteca OpenAI: 1.82.0
+2025-05-29 13:07:35,177 - INFO - Usando API OpenAI nova (v1+)
+2025-05-29 13:07:35,178 - INFO - Chave de API OpenAI carregada do arquivo secrets.toml
+2025-05-29 13:07:35,179 - INFO - ID do assistente OpenAI carregado do arquivo secrets.toml

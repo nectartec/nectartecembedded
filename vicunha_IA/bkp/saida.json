@@ -1,0 +1,23 @@
+{
+    "dados_principais": {
+        "Nome da empresa": "FINOBRASA-AGROINDUSTRIAL SA",
+        "Nmero do continer": "251102LUI01",
+        "Comisso %": "8%",
+        "Comisso Valor": "2.617,34 ",
+        "Valor total": "33.600,00 ",
+        "Net Amount": "22.400,00 ",
+        "Moeda": ""
+    },
+    "produtos": [
+        {
+            "tipo": "Manga Tommy",
+            "tamanho": "22.400 Kgs",
+            "quantidade": "5.600 Box",
+            "preo unitrio": "1,461 /Kgs",
+            "preo total": "32.716,79 ",
+            "moeda": "",
+            "referencia": "004-LV25/01475",
+            "currency_rate": "Not available"
+        }
+    ]
+}
